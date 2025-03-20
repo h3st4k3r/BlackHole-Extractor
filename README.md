@@ -16,7 +16,7 @@ Make sure `binwalk` is installed:
 sudo apt install binwalk
 git clone https://github.com/h3st4k3r/BlackHole-Extractor.git
 cd BlackHole-Extractor
-python3 blackhole_extractor.py /path/to/binary /output/directory --verbose
+python3 blackholeextractor.py /path/to/binary /output/directory --verbose
 ```
 🎯 Use Cases
 🔎 Digital forensics
